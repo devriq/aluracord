@@ -1,0 +1,41 @@
+{
+  "name": "Aluracord - Chat (devriq)",
+  "stickers": [
+    "http://2.bp.blogspot.com/-d21tffsTIQo/U_H9QjC69gI/AAAAAAAAKqM/wnvOyUr6a_I/s1600/Pikachu%2B2.gif",
+    "https://media1.giphy.com/media/BdghqxNFV4efm/200.gif",
+    "https://c.tenor.com/TKpmh4WFEsAAAAAC/alura-gaveta-filmes.gif",
+    "https://i.pinimg.com/originals/0b/1c/23/0b1c2307c83e1ebdeed72e41b9a058ad.gif",
+    "https://c.tenor.com/VylWt5lyjBoAAAAC/omg-yes.gif",
+    "https://i.pinimg.com/originals/96/34/c5/9634c520c9a3cd4e7f23190bb2c96500.gif"
+  ],
+  "theme": {
+    "colors": {
+      "primary": {
+        "050": "#FFD6EE",
+        "100": "#FFADDD",
+        "200": "#FF85CC",
+        "300": "#FF85CC",
+        "400": "#FF33AA",
+        "500": "#FF0A99",
+        "600": "#FBAB7E",
+        "700": "#B8006B",
+        "800": "#8F0053",
+        "900": "#66003C"
+      },
+      "neutrals": {
+        "000": "#EAEBEA",
+        "050": "#CBCDCB",
+        "100": "#B6B9B6",
+        "200": "#A1A5A1",
+        "300": "#8D918D",
+        "400": "#828782",
+        "500": "#828782",
+        "600": "#646864",
+        "700": "#505350",
+        "800": "#3C3E3C",
+        "900": "#111",
+        "999": "#010101"
+      }
+    }
+  }
+}
